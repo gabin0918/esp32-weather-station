@@ -24,8 +24,6 @@ Both devices share the same I2C bus on the ESP32:
 | **OLED/BME280** | VCC | **3.3V** |
 | **OLED/BME280** | GND | **GND** |
 
-![IMG_20260411_173753](https://github.com/user-attachments/assets/95074bf1-a311-4db1-b5ef-2433b77680b0)
-
 ## Requirements
 To compile this project, the following libraries are required:
 - `Adafruit SH110X`
